@@ -1,0 +1,348 @@
+state_abbr,state_name,disease_group,trial_count,trials_per_million,burden_value,burden_unit,burden_value_type,question,year_start,year_end,population,ci_low,ci_high,state_name_pop
+AK,Alaska,Arthritis,1,1.3563552023003784,22.0,%,Crude Prevalence,Arthritis among adults,2022,2022,737270.0,20.2,23.9,Alaska
+AK,Alaska,Asthma,1,1.3563552023003784,13.3,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,737270.0,10.6,16.5,Alaska
+AK,Alaska,Cancer,547,741.926295658307,11.6,"per 100,000",Age-adjusted Rate,"Breast cancer mortality among all females, underlying cause",2016,2020,737270.0,6.7,18.6,Alaska
+AK,Alaska,Cardiovascular Disease,27,36.62159046211022,44.3,%,Age-adjusted Prevalence,High blood pressure among adults,2021,2021,737270.0,40.9,47.7,Alaska
+AK,Alaska,Diabetes,6,8.13813121380227,43.7,"cases per 100,000",Crude Rate,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,737270.0,34.5,54.5,Alaska
+AK,Alaska,Mental Health,6,8.13813121380227,20.5,%,Crude Prevalence,Depression among adults,2022,2022,737270.0,12.1,32.6,Alaska
+AL,Alabama,Arthritis,205,39.475549037489834,29.9,%,Crude Prevalence,Arthritis among adults,2019,2019,5193088.0,27.9,32.0,Alabama
+AL,Alabama,Asthma,171,32.92838480688176,8.1,%,Crude Prevalence,Current asthma among adults,2019,2019,5193088.0,6.7,9.7,Alabama
+AL,Alabama,Cancer,556,107.06539153582608,406.3,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined), incidence",2015,2019,5193088.0,403.1,409.6,Alabama
+AL,Alabama,Cardiovascular Disease,450,86.65364422863621,85.2,%,Crude Prevalence,Taking medicine to control high blood pressure among adults with high blood pressure,2019,2019,5193088.0,82.8,87.4,Alabama
+AL,Alabama,Cognitive Health and Caregiving,68,13.09432846121614,47.9,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,5193088.0,39.8,56.0,Alabama
+AL,Alabama,Diabetes,546,105.13975499741194,6.8,%,Crude Prevalence,Gestational diabetes among women with a recent live birth,2019,2019,5193088.0,5.3,8.8,Alabama
+AL,Alabama,Mental Health,302,58.15422346010697,21.0,%,Crude Prevalence,Frequent mental distress among adults,2019,2019,5193088.0,18.7,23.6,Alabama
+AR,Arkansas,Arthritis,69,22.152369131668866,33.8,%,Age-adjusted Prevalence,Arthritis among adults,2019,2019,3114791.0,31.6,36.1,Arkansas
+AR,Arkansas,Asthma,87,27.931248035582485,7.0,%,Crude Prevalence,Current asthma among adults,2019,2019,3114791.0,5.7,8.5,Arkansas
+AR,Arkansas,Cancer,478,153.46133978170604,9537.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,3114791.0,,,Arkansas
+AR,Arkansas,Cardiovascular Disease,193,61.96242380307378,744.0,Number,Number,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2020,2020,3114791.0,,,Arkansas
+AR,Arkansas,Cognitive Health and Caregiving,29,9.310416011860829,11.2,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,3114791.0,9.0,13.9,Arkansas
+AR,Arkansas,Diabetes,218,69.9886445029538,24.8,%,Crude Prevalence,Diabetes among adults,2021,2021,3114791.0,22.7,27.0,Arkansas
+AR,Arkansas,Mental Health,167,53.61515427519856,27.8,%,Crude Prevalence,Depression among adults,2019,2019,3114791.0,24.7,31.1,Arkansas
+AZ,Arizona,Arthritis,341,44.72824508664819,28.4,%,Age-adjusted Prevalence,Arthritis among adults,2019,2019,7623818.0,21.9,36.0,Arizona
+AZ,Arizona,Asthma,190,24.92189608933477,37.0,Number,Number,"Asthma mortality among all people, underlying cause",2019,2019,7623818.0,,,Arizona
+AZ,Arizona,Cancer,1015,133.13539226670943,1408.0,Number,Number,"Lung and bronchial cancer mortality among all people, underlying cause",2016,2020,7623818.0,,,Arizona
+AZ,Arizona,Cardiovascular Disease,537,70.43714842090931,26.1,"cases per 100,000",Crude Rate,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2019,2019,7623818.0,20.8,32.3,Arizona
+AZ,Arizona,Cognitive Health and Caregiving,238,31.217954048745653,10.0,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,7623818.0,7.4,13.3,Arizona
+AZ,Arizona,Diabetes,741,97.19539474840559,1960.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2020,2020,7623818.0,,,Arizona
+AZ,Arizona,Mental Health,351,46.039923828192116,15.9,%,Age-adjusted Prevalence,Depression among adults,2022,2022,7623818.0,14.3,17.7,Arizona
+CA,California,Arthritis,1060,26.934104366961012,72.3,%,Crude Prevalence,Received health care provider counseling for physical activity among adults with arthritis,2019,2019,39355309.0,70.0,74.5,California
+CA,California,Asthma,1208,30.69471516536689,10.2,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,39355309.0,9.2,11.2,California
+CA,California,Cancer,9326,236.9692993644136,486.0,Number,Number,"Cervical cancer mortality among all females, underlying cause",2015,2019,39355309.0,,,California
+CA,California,Cardiovascular Disease,2910,73.94173934703447,47.2,%,Age-adjusted Prevalence,Taking medicine to control high blood pressure among adults with high blood pressure,2019,2019,39355309.0,34.5,60.3,California
+CA,California,Cognitive Health and Caregiving,766,19.46370183499258,44.0,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,39355309.0,29.1,60.0,California
+CA,California,Diabetes,3720,94.52346060858015,15.0,%,Age-adjusted Prevalence,Diabetes among adults,2019,2019,39355309.0,13.8,16.4,California
+CA,California,Mental Health,2477,62.93941180845512,14.1,%,Crude Prevalence,Depression among adults,2020,2020,39355309.0,12.8,15.5,California
+CO,Colorado,Arthritis,168,27.94150446041213,24.8,%,Age-adjusted Prevalence,Physical inactivity among adults with arthritis,2021,2021,6012561.0,20.2,30.2,Colorado
+CO,Colorado,Asthma,297,49.3965882425143,49.0,Number,Number,"Asthma mortality among all people, underlying cause",2021,2021,6012561.0,,,Colorado
+CO,Colorado,Cancer,3642,605.7319002667914,2880.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,6012561.0,,,Colorado
+CO,Colorado,Cardiovascular Disease,488,81.16341771833999,76.6,"cases per 100,000",Age-adjusted Rate,"Coronary heart disease mortality among all people, underlying cause",2019,2019,6012561.0,63.4,89.7,Colorado
+CO,Colorado,Cognitive Health and Caregiving,113,18.793988119205775,18.1,%,Age-adjusted Prevalence,Provided care for someone with dementia or other cognitive impairment in the past month among adults,2021,2022,6012561.0,11.1,28.3,Colorado
+CO,Colorado,Diabetes,527,87.64983839664994,35.0,Number,Number,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2020,2020,6012561.0,,,Colorado
+CO,Colorado,Mental Health,296,49.23026976358327,11.3,%,Age-adjusted Prevalence,Frequent mental distress among adults,2021,2021,6012561.0,10.3,12.4,Colorado
+CT,Connecticut,Arthritis,117,31.720245867150187,26.9,%,Age-adjusted Prevalence,Physical inactivity among adults with arthritis,2019,2019,3688496.0,22.3,32.1,Connecticut
+CT,Connecticut,Asthma,69,18.70681166524242,13.9,%,Crude Prevalence,Current asthma among adults,2021,2021,3688496.0,12.5,15.4,Connecticut
+CT,Connecticut,Cancer,1121,303.91791125705436,139.9,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined) mortality among all people, underlying cause",2016,2020,3688496.0,138.2,141.6,Connecticut
+CT,Connecticut,Cardiovascular Disease,323,87.56956765033769,30.0,%,Crude Prevalence,High cholesterol among adults who have been screened,2019,2019,3688496.0,25.9,34.5,Connecticut
+CT,Connecticut,Cognitive Health and Caregiving,134,36.32917048032586,6.9,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,3688496.0,6.1,7.8,Connecticut
+CT,Connecticut,Diabetes,339,91.90737905097362,24.4,%,Crude Prevalence,Gestational diabetes among women with a recent live birth,2019,2019,3688496.0,18.8,31.0,Connecticut
+CT,Connecticut,Mental Health,299,81.06285054938381,10.8,%,Crude Prevalence,Depression among adults,2019,2019,3688496.0,9.5,12.2,Connecticut
+DE,Delaware,Arthritis,17,16.03846211903935,35.0,%,Crude Prevalence,Physical inactivity among adults with arthritis,2021,2021,1059952.0,29.5,41.0,Delaware
+DE,Delaware,Asthma,11,10.377828429966641,7.4,%,Crude Prevalence,Current asthma among adults,2021,2021,1059952.0,5.7,9.5,Delaware
+DE,Delaware,Cancer,706,666.0678974142226,161.3,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined) mortality among all people, underlying cause",2015,2019,1059952.0,158.2,164.5,Delaware
+DE,Delaware,Cardiovascular Disease,78,73.58823795794525,38.8,%,Crude Prevalence,High blood pressure among adults,2019,2019,1059952.0,36.4,41.3,Delaware
+DE,Delaware,Cognitive Health and Caregiving,9,8.49095053360907,10.1,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,1059952.0,7.7,13.0,Delaware
+DE,Delaware,Diabetes,48,45.2850695125817,15.5,%,Crude Prevalence,Diabetes among adults,2019,2019,1059952.0,13.1,18.2,Delaware
+DE,Delaware,Mental Health,31,29.24660739354235,12.6,%,Crude Prevalence,Frequent mental distress among adults,2020,2020,1059952.0,10.9,14.5,Delaware
+FL,Florida,Arthritis,1191,50.76181507884192,30.3,%,Crude Prevalence,Physical inactivity among adults with arthritis,2019,2019,23462518.0,26.5,34.4,Florida
+FL,Florida,Asthma,931,39.68031052762538,5.0,%,Crude Prevalence,Current asthma among adults,2019,2019,23462518.0,4.2,5.9,Florida
+FL,Florida,Cancer,3512,149.68555378412495,158.3,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined) mortality among all people, underlying cause",2015,2019,23462518.0,156.2,160.4,Florida
+FL,Florida,Cardiovascular Disease,2168,92.40269948860562,28.9,%,Age-adjusted Prevalence,Taking medicine for high cholesterol among adults,2019,2019,23462518.0,26.5,31.5,Florida
+FL,Florida,Cognitive Health and Caregiving,1136,48.41765065454611,15.1,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,23462518.0,13.2,17.3,Florida
+FL,Florida,Diabetes,3180,135.53532489564847,3.2,"cases per 100,000",Crude Rate,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,23462518.0,2.9,3.5,Florida
+FL,Florida,Mental Health,1837,78.29509177147993,2.2,Number,Age-adjusted Mean,Average mentally unhealthy days among adults,2019,2019,23462518.0,1.3,3.8,Florida
+GA,Georgia,Arthritis,238,21.056826180677476,14.6,%,Crude Prevalence,Activity limitation due to arthritis among adults with arthritis,2019,2019,11302748.0,12.8,16.5,Georgia
+GA,Georgia,Asthma,265,23.445625789409796,11.3,%,Age-adjusted Prevalence,Current asthma among adults,2021,2021,11302748.0,9.8,12.9,Georgia
+GA,Georgia,Cancer,1875,165.88886171752216,519.0,Number,Number,"Prostate cancer mortality among all males, underlying cause",2015,2019,11302748.0,,,Georgia
+GA,Georgia,Cardiovascular Disease,762,67.417233402001,40.8,%,Crude Prevalence,Taking medicine for high cholesterol among adults,2019,2019,11302748.0,37.7,43.9,Georgia
+GA,Georgia,Cognitive Health and Caregiving,176,15.571434486551412,25.7,%,Age-adjusted Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,11302748.0,16.6,37.7,Georgia
+GA,Georgia,Diabetes,981,86.79305245060759,25.8,%,Crude Prevalence,Diabetes among adults,2021,2021,11302748.0,23.7,28.1,Georgia
+GA,Georgia,Mental Health,547,48.39531059172513,16.1,%,Crude Prevalence,Postpartum depressive symptoms among women with a recent live birth,2019,2019,11302748.0,11.4,22.3,Georgia
+HI,Hawaii,Arthritis,12,8.375092474979411,18.6,%,Age-adjusted Prevalence,Arthritis among adults,2019,2019,1432820.0,17.2,20.0,Hawaii
+HI,Hawaii,Asthma,8,5.583394983319607,8.4,%,Crude Prevalence,Current asthma among adults,2019,2019,1432820.0,7.1,10.0,Hawaii
+HI,Hawaii,Cancer,1177,821.4569869208973,3644.0,Number,Number,"Invasive cancer (all sites combined), incidence",2016,2020,1432820.0,,,Hawaii
+HI,Hawaii,Cardiovascular Disease,76,53.04225234153627,37.3,%,Crude Prevalence,High blood pressure among adults,2019,2019,1432820.0,34.8,39.7,Hawaii
+HI,Hawaii,Cognitive Health and Caregiving,13,9.073016847894362,20.0,%,Crude Prevalence,Provided care for someone with dementia or other cognitive impairment in the past month among adults,2019,2020,1432820.0,15.2,25.9,Hawaii
+HI,Hawaii,Diabetes,99,69.09451291858014,78.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,1432820.0,,,Hawaii
+HI,Hawaii,Mental Health,30,20.93773118744853,10.4,%,Crude Prevalence,Frequent mental distress among adults,2020,2020,1432820.0,9.0,12.0,Hawaii
+IA,Iowa,Arthritis,46,14.204602476479803,16.9,%,Age-adjusted Prevalence,Have taken an educational class to learn how to manage arthritis symptoms among adults with arthritis,2019,2019,3238387.0,14.3,19.9,Iowa
+IA,Iowa,Asthma,40,12.35182824041722,54.0,Number,Number,"Asthma mortality among all people, underlying cause",2019,2019,3238387.0,,,Iowa
+IA,Iowa,Cancer,2401,741.4184901310435,185.3,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined) mortality among all people, underlying cause",2016,2020,3238387.0,182.5,188.1,Iowa
+IA,Iowa,Cardiovascular Disease,264,81.52206638675365,34.0,%,Crude Prevalence,High blood pressure among adults,2019,2019,3238387.0,32.5,35.6,Iowa
+IA,Iowa,Cognitive Health and Caregiving,20,6.17591412020861,9.5,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,3238387.0,8.7,10.5,Iowa
+IA,Iowa,Diabetes,209,64.53830255617997,11.6,%,Crude Prevalence,Gestational diabetes among women with a recent live birth,2019,2019,3238387.0,8.5,15.6,Iowa
+IA,Iowa,Mental Health,87,26.86522642290745,11.4,%,Crude Prevalence,Depression among adults,2019,2019,3238387.0,10.4,12.5,Iowa
+ID,Idaho,Arthritis,84,41.38475356118268,12.2,%,Age-adjusted Prevalence,Activity limitation due to arthritis among adults with arthritis,2019,2019,2029733.0,10.6,14.0,Idaho
+ID,Idaho,Asthma,51,25.12645751928948,12.3,%,Crude Prevalence,Current asthma among adults,2019,2019,2029733.0,8.0,18.3,Idaho
+ID,Idaho,Cancer,1051,517.8020951524165,71.6,%,Crude Prevalence,Mammography use among women aged 50-74 years,2020,2020,2029733.0,68.0,75.0,Idaho
+ID,Idaho,Cardiovascular Disease,77,37.93602409775079,33.0,%,Crude Prevalence,High blood pressure among adults,2019,2019,2029733.0,30.4,35.7,Idaho
+ID,Idaho,Cognitive Health and Caregiving,12,5.912107651597525,8.5,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,2029733.0,7.2,10.0,Idaho
+ID,Idaho,Diabetes,206,101.49118135242419,25.0,Number,Number,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2020,2020,2029733.0,,,Idaho
+ID,Idaho,Mental Health,54,26.604484432188862,22.3,%,Crude Prevalence,Depression among adults,2019,2019,2029733.0,19.4,25.5,Idaho
+IL,Illinois,Arthritis,282,22.171308581294916,22.4,%,Age-adjusted Prevalence,Severe joint pain among adults with arthritis,2019,2019,12719141.0,16.7,29.4,Illinois
+IL,Illinois,Asthma,261,20.520253686943168,67.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,12719141.0,,,Illinois
+IL,Illinois,Cancer,7524,591.549382147741,1231.0,Number,Number,"Prostate cancer mortality among all males, underlying cause",2016,2020,12719141.0,,,Illinois
+IL,Illinois,Cardiovascular Disease,1125,88.44936934027227,25.6,%,Age-adjusted Prevalence,Taking medicine for high cholesterol among adults,2019,2019,12719141.0,23.9,27.3,Illinois
+IL,Illinois,Cognitive Health and Caregiving,186,14.623629064258349,43.8,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,12719141.0,29.5,59.1,Illinois
+IL,Illinois,Diabetes,803,63.13319429354545,4724.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,12719141.0,,,Illinois
+IL,Illinois,Mental Health,658,51.7330533563548,13.7,%,Crude Prevalence,Depression among adults,2019,2019,12719141.0,11.9,15.8,Illinois
+IN,Indiana,Arthritis,125,17.925431067181215,44.3,%,Crude Prevalence,Work limitation due to arthritis among adults aged 18-64 years with arthritis,2019,2019,6973333.0,39.4,49.3,Indiana
+IN,Indiana,Asthma,131,18.785851758405915,1.2,"cases per 100,000",Age-adjusted Rate,"Asthma mortality among all people, underlying cause",2019,2019,6973333.0,0.9,1.5,Indiana
+IN,Indiana,Cancer,1776,254.68452460251072,13.0,"per 100,000",Age-adjusted Rate,"Lung and bronchial cancer mortality among all people, underlying cause",2016,2020,6973333.0,9.8,16.9,Indiana
+IN,Indiana,Cardiovascular Disease,439,62.95411390794043,67.8,%,Age-adjusted Prevalence,Taking medicine to control high blood pressure among adults with high blood pressure,2019,2019,6973333.0,61.4,73.5,Indiana
+IN,Indiana,Cognitive Health and Caregiving,78,11.18546898592108,10.9,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,6973333.0,9.9,12.0,Indiana
+IN,Indiana,Diabetes,550,78.87189669559736,16.7,%,Crude Prevalence,Diabetes among adults,2021,2021,6973333.0,15.4,18.2,Indiana
+IN,Indiana,Mental Health,271,38.86233455364888,26.7,%,Crude Prevalence,Depression among adults,2019,2019,6973333.0,25.1,28.4,Indiana
+KS,Kansas,Arthritis,112,37.61898684007228,21.5,%,Crude Prevalence,Arthritis among adults,2019,2019,2977220.0,20.3,22.8,Kansas
+KS,Kansas,Asthma,81,27.20658869683799,10.6,%,Crude Prevalence,Current asthma among adults,2019,2019,2977220.0,9.9,11.4,Kansas
+KS,Kansas,Cancer,2752,924.3522480703475,8102.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,2977220.0,,,Kansas
+KS,Kansas,Cardiovascular Disease,305,102.44456237698256,59.8,%,Age-adjusted Prevalence,Taking medicine to control high blood pressure among adults with high blood pressure,2019,2019,2977220.0,52.1,67.0,Kansas
+KS,Kansas,Cognitive Health and Caregiving,86,28.88600775219836,11.3,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,2977220.0,10.0,12.6,Kansas
+KS,Kansas,Diabetes,292,98.0780728330456,1092.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,2977220.0,,,Kansas
+KS,Kansas,Mental Health,200,67.1767622144148,6.8,Number,Crude Mean,Average mentally unhealthy days among adults,2022,2022,2977220.0,6.3,7.2,Kansas
+KY,Kentucky,Arthritis,118,25.61395343991053,39.7,%,Age-adjusted Prevalence,Severe joint pain among adults with arthritis,2021,2021,4606864.0,33.0,46.8,Kentucky
+KY,Kentucky,Asthma,132,28.652897068374497,11.0,%,Age-adjusted Prevalence,Current asthma among adults,2022,2022,4606864.0,9.7,12.5,Kentucky
+KY,Kentucky,Cancer,1196,259.6126128316356,64.0,%,Crude Prevalence,Colorectal cancer screening among adults aged 45-75 years,2022,2022,4606864.0,61.1,66.8,Kentucky
+KY,Kentucky,Cardiovascular Disease,340,73.80291669126764,127.0,Number,Number,"Coronary heart disease mortality among all people, underlying cause",2019,2019,4606864.0,,,Kentucky
+KY,Kentucky,Cognitive Health and Caregiving,45,9.768033091491306,10.6,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,4606864.0,8.6,12.9,Kentucky
+KY,Kentucky,Diabetes,367,79.66373654616243,14.4,%,Crude Prevalence,Diabetes among adults,2020,2020,4606864.0,12.7,16.4,Kentucky
+KY,Kentucky,Mental Health,166,36.03318873750126,30.7,%,Age-adjusted Prevalence,Depression among adults,2020,2020,4606864.0,28.1,33.5,Kentucky
+LA,Louisiana,Arthritis,119,25.76767646365274,38.7,%,Crude Prevalence,Physical inactivity among adults with arthritis,2019,2019,4618189.0,35.7,41.9,Louisiana
+LA,Louisiana,Asthma,114,24.68500098198666,12.0,%,Crude Prevalence,Current asthma among adults,2019,2019,4618189.0,10.6,13.7,Louisiana
+LA,Louisiana,Cancer,1130,244.68465885653444,89.8,%,Crude Prevalence,Mammography use among women aged 50-74 years,2022,2022,4618189.0,78.1,95.6,Louisiana
+LA,Louisiana,Cardiovascular Disease,383,82.93294189562185,41.5,%,Crude Prevalence,High cholesterol among adults who have been screened,2019,2019,4618189.0,39.2,43.7,Louisiana
+LA,Louisiana,Cognitive Health and Caregiving,42,9.094474045995087,45.9,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,4618189.0,37.9,54.1,Louisiana
+LA,Louisiana,Diabetes,451,97.65732844628057,32.0,Number,Number,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2019,2019,4618189.0,,,Louisiana
+LA,Louisiana,Mental Health,210,45.472370229975425,29.3,%,Crude Prevalence,Depression among adults,2019,2019,4618189.0,20.7,39.6,Louisiana
+MA,Massachusetts,Arthritis,213,29.773203669400583,29.0,%,Crude Prevalence,Arthritis among adults,2021,2021,7154084.0,27.2,30.9,Massachusetts
+MA,Massachusetts,Asthma,221,30.891446060739572,30.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,7154084.0,,,Massachusetts
+MA,Massachusetts,Cancer,1868,261.1095983776539,428.3,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined), incidence",2016,2020,7154084.0,425.5,431.1,Massachusetts
+MA,Massachusetts,Cardiovascular Disease,879,122.86688274837142,42.8,%,Age-adjusted Prevalence,High blood pressure among adults,2019,2019,7154084.0,41.1,44.4,Massachusetts
+MA,Massachusetts,Cognitive Health and Caregiving,218,30.47210516398745,17.2,%,Age-adjusted Prevalence,Provided care for a friend or family member in the past month among adults,2021,2022,7154084.0,15.5,18.9,Massachusetts
+MA,Massachusetts,Diabetes,637,89.040050410367,46.0,Number,Number,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2020,2020,7154084.0,,,Massachusetts
+MA,Massachusetts,Mental Health,846,118.25413288409808,22.0,%,Crude Prevalence,Depression among adults,2021,2021,7154084.0,20.1,24.0,Massachusetts
+MD,Maryland,Arthritis,256,40.859668267376094,24.7,%,Crude Prevalence,Arthritis among adults,2021,2021,6265347.0,22.9,26.5,Maryland
+MD,Maryland,Asthma,225,35.91181781312352,7.0,%,Age-adjusted Prevalence,Current asthma among adults,2021,2021,6265347.0,6.1,7.9,Maryland
+MD,Maryland,Cancer,1660,264.94941142126686,19.5,"per 100,000",Age-adjusted Rate,"Breast cancer mortality among all females, underlying cause",2015,2019,6265347.0,18.7,20.3,Maryland
+MD,Maryland,Cardiovascular Disease,748,119.38684321873951,37.5,%,Crude Prevalence,Taking medicine for high cholesterol among adults,2021,2021,6265347.0,35.9,39.0,Maryland
+MD,Maryland,Cognitive Health and Caregiving,115,18.354929104485354,11.0,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,6265347.0,9.6,12.7,Maryland
+MD,Maryland,Diabetes,675,107.73545343937056,140.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,6265347.0,,,Maryland
+MD,Maryland,Mental Health,493,78.68678303053287,4.7,Number,Crude Mean,Average mentally unhealthy days among adults,2019,2019,6265347.0,3.9,5.8,Maryland
+ME,Maine,Arthritis,7,4.947437015592908,28.0,%,Crude Prevalence,Arthritis among adults,2019,2019,1414874.0,26.2,30.0,Maine
+ME,Maine,Asthma,24,16.962641196318543,9.5,%,Age-adjusted Prevalence,Current asthma among adults,2021,2021,1414874.0,8.2,10.9,Maine
+ME,Maine,Cancer,472,333.5986101942646,9238.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,1414874.0,,,Maine
+ME,Maine,Cardiovascular Disease,125,88.34708956415906,2528.0,Number,Number,"Diseases of the heart mortality among all people, underlying cause",2020,2020,1414874.0,,,Maine
+ME,Maine,Cognitive Health and Caregiving,14,9.894874031185816,8.2,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,1414874.0,6.9,9.8,Maine
+ME,Maine,Diabetes,67,47.35404000638926,82.2,"cases per 100,000",Age-adjusted Rate,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,1414874.0,76.1,88.2,Maine
+ME,Maine,Mental Health,32,22.616854928424722,3.2,Number,Age-adjusted Mean,Average mentally unhealthy days among adults,2019,2019,1414874.0,2.3,4.4,Maine
+MI,Michigan,Arthritis,226,22.31463156568539,14.6,%,Crude Prevalence,Activity limitation due to arthritis among adults with arthritis,2019,2019,10127884.0,12.1,17.5,Michigan
+MI,Michigan,Asthma,195,19.253775023489606,9.0,%,Crude Prevalence,Current asthma among adults,2021,2021,10127884.0,7.9,10.2,Michigan
+MI,Michigan,Cancer,7039,695.0119096940684,477.2,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined), incidence",2016,2020,10127884.0,474.7,479.8,Michigan
+MI,Michigan,Cardiovascular Disease,1020,100.71205396902255,42.7,"cases per 100,000",Crude Rate,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2019,2019,10127884.0,40.9,44.6,Michigan
+MI,Michigan,Cognitive Health and Caregiving,147,14.51438424847678,11.0,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,10127884.0,6.1,18.9,Michigan
+MI,Michigan,Diabetes,626,61.80955469079227,201.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,10127884.0,,,Michigan
+MI,Michigan,Mental Health,433,42.7532542829282,23.4,%,Crude Prevalence,Depression among adults,2019,2019,10127884.0,21.6,25.4,Michigan
+MN,Minnesota,Arthritis,115,19.724187256288374,19.0,%,Crude Prevalence,Arthritis among adults,2019,2019,5830405.0,13.7,25.7,Minnesota
+MN,Minnesota,Asthma,143,24.526598066515106,9.2,%,Crude Prevalence,Current asthma among adults,2020,2020,5830405.0,8.3,10.1,Minnesota
+MN,Minnesota,Cancer,4327,742.1439848518243,1.2,"per 100,000",Age-adjusted Rate,"Cervical cancer mortality among all females, underlying cause",2016,2020,5830405.0,1.0,1.4,Minnesota
+MN,Minnesota,Cardiovascular Disease,682,116.97300616337974,2092.0,Number,Number,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2020,2020,5830405.0,,,Minnesota
+MN,Minnesota,Cognitive Health and Caregiving,81,13.892688415298766,7.6,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,5830405.0,6.7,8.7,Minnesota
+MN,Minnesota,Diabetes,445,76.32402894824631,5542.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,5830405.0,,,Minnesota
+MN,Minnesota,Mental Health,292,50.082284163793084,20.8,%,Crude Prevalence,Depression among adults,2020,2020,5830405.0,20.0,21.7,Minnesota
+MO,Missouri,Arthritis,188,29.981464119284126,52.0,%,Crude Prevalence,Arthritis among adults,2021,2021,6270541.0,49.6,54.4,Missouri
+MO,Missouri,Asthma,232,36.998402530180414,11.3,%,Crude Prevalence,Current asthma among adults,2019,2019,6270541.0,8.5,14.7,Missouri
+MO,Missouri,Cancer,3688,588.1470195314887,37.3,"per 100,000",Age-adjusted Rate,"Lung and bronchial cancer mortality among all people, underlying cause",2016,2020,6270541.0,36.5,38.1,Missouri
+MO,Missouri,Cardiovascular Disease,677,107.96516600401783,59.4,%,Crude Prevalence,High blood pressure among adults,2021,2021,6270541.0,57.0,61.8,Missouri
+MO,Missouri,Cognitive Health and Caregiving,93,14.831256186667147,11.1,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,6270541.0,9.4,13.1,Missouri
+MO,Missouri,Diabetes,568,90.58229584975204,2029.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,6270541.0,,,Missouri
+MO,Missouri,Mental Health,390,62.19559046021707,16.3,%,Age-adjusted Prevalence,Depression among adults,2019,2019,6270541.0,14.6,18.2,Missouri
+MS,Mississippi,Arthritis,65,22.0028705283397,28.3,%,Age-adjusted Prevalence,Arthritis among adults,2021,2021,2954160.0,26.3,30.4,Mississippi
+MS,Mississippi,Asthma,18,6.093102607847916,31.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,2954160.0,,,Mississippi
+MS,Mississippi,Cancer,431,145.895956887914,20.0,"per 100,000",Age-adjusted Rate,"Breast cancer mortality among all females, underlying cause",2016,2020,2954160.0,18.8,21.1,Mississippi
+MS,Mississippi,Cardiovascular Disease,143,48.40631516234733,1948.0,Number,Number,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2020,2020,2954160.0,,,Mississippi
+MS,Mississippi,Cognitive Health and Caregiving,22,7.447125409591898,13.5,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,2954160.0,11.0,16.4,Mississippi
+MS,Mississippi,Diabetes,133,45.02125815798738,14.4,%,Crude Prevalence,Diabetes among adults,2021,2021,2954160.0,12.5,16.5,Mississippi
+MS,Mississippi,Mental Health,76,25.726433233135648,20.6,%,Crude Prevalence,Depression among adults,2019,2019,2954160.0,19.2,22.1,Mississippi
+MT,Montana,Arthritis,15,13.103938694533213,36.2,%,Crude Prevalence,Arthritis among adults,2019,2019,1144694.0,27.6,45.9,Montana
+MT,Montana,Asthma,46,40.18541199656852,10.7,%,Crude Prevalence,Current asthma among adults,2019,2019,1144694.0,9.8,11.6,Montana
+MT,Montana,Cancer,1562,1364.5568160573919,426.4,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined), incidence",2016,2020,1144694.0,419.1,433.7,Montana
+MT,Montana,Cardiovascular Disease,92,80.37082399313704,25.5,%,Crude Prevalence,High blood pressure among adults,2019,2019,1144694.0,17.8,35.0,Montana
+MT,Montana,Diabetes,106,92.60116677470137,557.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,1144694.0,,,Montana
+MT,Montana,Mental Health,27,23.58708965015978,3.0,Number,Crude Mean,Average mentally unhealthy days among adults,2021,2021,1144694.0,2.4,3.8,Montana
+NC,North Carolina,Arthritis,419,37.41750288981001,78.8,%,Age-adjusted Prevalence,Received health care provider counseling for physical activity among adults with arthritis,2019,2019,11197968.0,72.7,83.8,North Carolina
+NC,North Carolina,Asthma,392,35.00635115228049,24.0,Number,Number,"Asthma mortality among all people, underlying cause",2019,2019,11197968.0,,,North Carolina
+NC,North Carolina,Cancer,2972,265.40529496065716,30211.0,Number,Number,"Invasive cancer (all sites combined), incidence",2016,2020,11197968.0,,,North Carolina
+NC,North Carolina,Cardiovascular Disease,1161,103.6795247137695,29.5,%,Age-adjusted Prevalence,Taking medicine for high cholesterol among adults,2019,2019,11197968.0,27.2,31.9,North Carolina
+NC,North Carolina,Cognitive Health and Caregiving,192,17.145967911321055,7.2,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,11197968.0,5.8,8.7,North Carolina
+NC,North Carolina,Diabetes,1289,115.11016998798353,4834.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,11197968.0,,,North Carolina
+NC,North Carolina,Mental Health,652,58.224849365527746,13.3,%,Crude Prevalence,Frequent mental distress among adults,2019,2019,11197968.0,11.4,15.4,North Carolina
+ND,North Dakota,Arthritis,22,27.522086474395703,22.7,%,Age-adjusted Prevalence,Arthritis among adults,2019,2019,799358.0,20.8,24.8,North Dakota
+ND,North Dakota,Asthma,12,15.0120471678522,9.5,%,Crude Prevalence,Current asthma among adults,2019,2019,799358.0,5.2,16.7,North Dakota
+ND,North Dakota,Cancer,681,851.9336767756125,66.7,%,Crude Prevalence,Colorectal cancer screening among adults aged 45-75 years,2020,2020,799358.0,63.3,70.0,North Dakota
+ND,North Dakota,Cardiovascular Disease,55,68.80521618598925,34.0,Number,Number,"Diseases of the heart mortality among all people, underlying cause",2019,2019,799358.0,,,North Dakota
+ND,North Dakota,Cognitive Health and Caregiving,3,3.75301179196305,44.1,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,799358.0,29.0,60.3,North Dakota
+ND,North Dakota,Diabetes,59,73.80923190860665,283.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,799358.0,,,North Dakota
+ND,North Dakota,Mental Health,27,33.77710612766745,8.5,%,Crude Prevalence,Frequent mental distress among adults,2019,2019,799358.0,7.0,10.4,North Dakota
+NE,Nebraska,Arthritis,83,41.12970922782192,41.7,%,Age-adjusted Prevalence,Physical inactivity among adults with arthritis,2019,2019,2018006.0,30.7,53.6,Nebraska
+NE,Nebraska,Asthma,118,58.47356251666249,14.0,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,2018006.0,9.9,19.4,Nebraska
+NE,Nebraska,Cancer,1312,650.1467289988235,20.0,Number,Number,"Cervical cancer mortality among all females, underlying cause",2016,2020,2018006.0,,,Nebraska
+NE,Nebraska,Cardiovascular Disease,215,106.54081306002062,32.8,%,Crude Prevalence,High blood pressure among adults,2019,2019,2018006.0,31.4,34.3,Nebraska
+NE,Nebraska,Cognitive Health and Caregiving,27,13.37954396567701,55.3,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,2018006.0,45.9,64.3,Nebraska
+NE,Nebraska,Diabetes,219,108.52296772160241,9.6,%,Crude Prevalence,Diabetes among adults,2021,2021,2018006.0,9.0,10.3,Nebraska
+NE,Nebraska,Mental Health,115,56.98694652047615,8.6,%,Age-adjusted Prevalence,Frequent mental distress among adults,2019,2019,2018006.0,7.7,9.7,Nebraska
+NH,New Hampshire,Arthritis,27,19.07666132991178,22.7,%,Crude Prevalence,Arthritis among adults,2019,2019,1415342.0,20.7,24.8,New Hampshire
+NH,New Hampshire,Asthma,14,9.891602171065369,7.6,%,Crude Prevalence,Current asthma among adults,2019,2019,1415342.0,6.2,9.1,New Hampshire
+NH,New Hampshire,Cancer,431,304.5200382663695,622.4,"per 100,000",Crude Rate,"Invasive cancer (all sites combined), incidence",2016,2020,1415342.0,614.1,630.9,New Hampshire
+NH,New Hampshire,Cardiovascular Disease,77,54.403811940859526,14.7,%,Crude Prevalence,High blood pressure among adults,2019,2019,1415342.0,12.3,17.4,New Hampshire
+NH,New Hampshire,Cognitive Health and Caregiving,11,7.771973134408503,50.4,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,1415342.0,43.3,57.4,New Hampshire
+NH,New Hampshire,Diabetes,66,46.63183880645102,7.5,%,Age-adjusted Prevalence,Diabetes among adults,2020,2020,1415342.0,6.8,8.3,New Hampshire
+NH,New Hampshire,Mental Health,67,47.33838181866998,5.2,%,Crude Prevalence,Frequent mental distress among adults,2019,2019,1415342.0,4.3,6.3,New Hampshire
+NJ,New Jersey,Arthritis,127,13.300915406701671,18.4,%,Crude Prevalence,Arthritis among adults,2021,2021,9548215.0,17.0,20.0,New Jersey
+NJ,New Jersey,Asthma,161,16.8617903974722,113.0,Number,Number,"Asthma mortality among all people, underlying cause",2019,2019,9548215.0,,,New Jersey
+NJ,New Jersey,Cancer,1811,189.6689590672183,5587.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,9548215.0,,,New Jersey
+NJ,New Jersey,Cardiovascular Disease,617,64.61940792074749,419.0,Number,Number,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2019,2019,9548215.0,,,New Jersey
+NJ,New Jersey,Cognitive Health and Caregiving,151,15.81447422371616,19.7,%,Crude Prevalence,Provided care for a friend or family member in the past month among adults,2021,2022,9548215.0,18.4,21.0,New Jersey
+NJ,New Jersey,Diabetes,444,46.50083811476805,74.2,"cases per 100,000",Age-adjusted Rate,"Diabetes mortality among all people, underlying or contributing cause",2020,2020,9548215.0,72.6,75.7,New Jersey
+NJ,New Jersey,Mental Health,383,40.11220945485622,14.6,%,Crude Prevalence,Depression among adults,2021,2021,9548215.0,13.1,16.2,New Jersey
+NM,New Mexico,Arthritis,54,25.40581077940323,9.7,%,Crude Prevalence,Activity limitation due to arthritis among adults with arthritis,2019,2019,2125498.0,8.3,11.3,New Mexico
+NM,New Mexico,Asthma,24,11.291471457512545,10.6,%,Age-adjusted Prevalence,Current asthma among adults,2020,2020,2125498.0,7.4,14.9,New Mexico
+NM,New Mexico,Cancer,437,205.59887612220757,4697.0,Number,Number,"Invasive cancer (all sites combined), incidence",2016,2020,2125498.0,,,New Mexico
+NM,New Mexico,Cardiovascular Disease,98,46.1068417848429,31.8,%,Crude Prevalence,High blood pressure among adults,2021,2021,2125498.0,29.7,34.0,New Mexico
+NM,New Mexico,Cognitive Health and Caregiving,15,7.057169660945341,12.8,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,2125498.0,10.8,15.1,New Mexico
+NM,New Mexico,Diabetes,117,55.04592335537366,809.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,2125498.0,,,New Mexico
+NM,New Mexico,Mental Health,78,36.697282236915775,20.6,%,Crude Prevalence,Depression among adults,2019,2019,2125498.0,18.7,22.7,New Mexico
+NV,Nevada,Arthritis,63,19.19451292857082,37.8,%,Crude Prevalence,Physical inactivity among adults with arthritis,2021,2021,3282188.0,31.6,44.4,Nevada
+NV,Nevada,Asthma,62,18.889838120180805,10.0,%,Crude Prevalence,Current asthma among adults,2019,2019,3282188.0,8.6,11.6,Nevada
+NV,Nevada,Cancer,2578,785.4516560294535,65.7,%,Crude Prevalence,Colorectal cancer screening among adults aged 45-75 years,2022,2022,3282188.0,61.9,69.3,Nevada
+NV,Nevada,Cardiovascular Disease,135,41.131099132651755,23.2,%,Age-adjusted Prevalence,Taking medicine for high cholesterol among adults,2019,2019,3282188.0,17.2,30.6,Nevada
+NV,Nevada,Cognitive Health and Caregiving,38,11.577642718820494,33.6,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,3282188.0,22.8,46.3,Nevada
+NV,Nevada,Diabetes,325,99.01931272675422,30.0,Number,Number,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2019,2019,3282188.0,,,Nevada
+NV,Nevada,Mental Health,134,40.826424324261744,24.5,%,Age-adjusted Prevalence,Depression among adults,2019,2019,3282188.0,15.4,36.5,Nevada
+NY,New York,Arthritis,400,19.997573294480713,29.6,%,Crude Prevalence,Arthritis among adults,2019,2019,20002427.0,27.9,31.4,New York
+NY,New York,Asthma,413,20.647494426551336,11.3,%,Crude Prevalence,Current asthma among adults,2019,2019,20002427.0,9.5,13.3,New York
+NY,New York,Cancer,4095,204.7251566022463,2547.0,Number,Number,"Breast cancer mortality among all females, underlying cause",2015,2019,20002427.0,,,New York
+NY,New York,Cardiovascular Disease,1766,88.28928609513235,25.0,%,Crude Prevalence,High blood pressure among adults,2019,2019,20002427.0,22.6,27.6,New York
+NY,New York,Cognitive Health and Caregiving,442,22.09731849040119,19.3,%,Age-adjusted Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,20002427.0,17.7,21.1,New York
+NY,New York,Diabetes,1349,67.44181593563621,6787.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,20002427.0,,,New York
+NY,New York,Mental Health,1280,63.99223454233829,12.1,%,Crude Prevalence,Frequent mental distress among adults,2019,2019,20002427.0,11.1,13.2,New York
+OH,Ohio,Arthritis,365,30.670954438087108,11.4,%,Crude Prevalence,Arthritis among adults,2021,2021,11900510.0,10.2,12.7,Ohio
+OH,Ohio,Asthma,370,31.091104498882817,8.9,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,11900510.0,7.7,10.2,Ohio
+OH,Ohio,Cancer,7773,653.1652845130167,6.9,"per 100,000",Crude Rate,"Breast cancer mortality among all females, underlying cause",2015,2019,11900510.0,5.4,8.6,Ohio
+OH,Ohio,Cardiovascular Disease,1540,129.40621872507984,2928.0,Number,Number,"Coronary heart disease mortality among all people, underlying cause",2019,2019,11900510.0,,,Ohio
+OH,Ohio,Cognitive Health and Caregiving,229,19.24287278444369,23.2,%,Crude Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,11900510.0,21.6,24.9,Ohio
+OH,Ohio,Diabetes,1116,93.77749356960331,1.3,"cases per 100,000",Age-adjusted Rate,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2019,2019,11900510.0,1.1,1.6,Ohio
+OH,Ohio,Mental Health,817,68.65251993401964,16.3,%,Crude Prevalence,Depression among adults,2021,2021,11900510.0,15.0,17.6,Ohio
+OK,Oklahoma,Arthritis,139,33.71096076723236,51.1,%,Crude Prevalence,Arthritis among adults,2021,2021,4123288.0,48.2,53.9,Oklahoma
+OK,Oklahoma,Asthma,155,37.591359128928175,11.2,%,Crude Prevalence,Current asthma among adults,2019,2019,4123288.0,10.1,12.4,Oklahoma
+OK,Oklahoma,Cancer,574,139.20929122583726,54.5,%,Crude Prevalence,Colorectal cancer screening among adults aged 45-75 years,2022,2022,4123288.0,51.5,57.5,Oklahoma
+OK,Oklahoma,Cardiovascular Disease,276,66.93687173925275,37.9,%,Crude Prevalence,High cholesterol among adults who have been screened,2021,2021,4123288.0,36.1,39.7,Oklahoma
+OK,Oklahoma,Cognitive Health and Caregiving,57,13.823919163541328,51.6,%,Crude Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,4123288.0,42.0,61.1,Oklahoma
+OK,Oklahoma,Diabetes,288,69.84717051052462,1627.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,4123288.0,,,Oklahoma
+OK,Oklahoma,Mental Health,220,53.35547747331741,17.2,%,Crude Prevalence,Frequent mental distress among adults,2020,2020,4123288.0,15.1,19.5,Oklahoma
+OR,Oregon,Arthritis,75,17.549664380218392,16.3,%,Age-adjusted Prevalence,Arthritis among adults,2019,2019,4273586.0,12.7,20.7,Oregon
+OR,Oregon,Asthma,219,51.2450199902377,22.5,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,4273586.0,14.7,32.8,Oregon
+OR,Oregon,Cancer,1556,364.09703700826424,548.0,Number,Number,"Breast cancer mortality among all females, underlying cause",2015,2019,4273586.0,,,Oregon
+OR,Oregon,Cardiovascular Disease,335,78.38850089830882,61.6,"cases per 100,000",Age-adjusted Rate,"Coronary heart disease mortality among all people, underlying cause",2019,2019,4273586.0,59.5,63.8,Oregon
+OR,Oregon,Cognitive Health and Caregiving,109,25.505512232584064,7.8,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,4273586.0,6.5,9.4,Oregon
+OR,Oregon,Diabetes,283,66.22073359469073,8.6,%,Age-adjusted Prevalence,Diabetes among adults,2020,2020,4273586.0,7.6,9.8,Oregon
+OR,Oregon,Mental Health,249,58.26488574232506,34.8,%,Age-adjusted Prevalence,Depression among adults,2021,2021,4273586.0,26.0,44.7,Oregon
+PA,Pennsylvania,Arthritis,472,36.14246010086809,12.7,%,Crude Prevalence,Have taken an educational class to learn how to manage arthritis symptoms among adults with arthritis,2019,2019,13059432.0,8.7,18.2,Pennsylvania
+PA,Pennsylvania,Asthma,341,26.111395962703433,9.9,%,Crude Prevalence,Current asthma among adults,2020,2020,13059432.0,8.8,11.2,Pennsylvania
+PA,Pennsylvania,Cancer,4697,359.6634218088505,16.8,"per 100,000",Age-adjusted Rate,"Colon and rectum (colorectal) cancer mortality among all people, underlying cause",2015,2019,13059432.0,16.4,17.2,Pennsylvania
+PA,Pennsylvania,Cardiovascular Disease,1538,117.76928736257443,31.8,%,Crude Prevalence,High blood pressure among adults,2019,2019,13059432.0,29.8,33.8,Pennsylvania
+PA,Pennsylvania,Cognitive Health and Caregiving,220,16.846061911421568,19.7,%,Crude Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,13059432.0,17.5,22.1,Pennsylvania
+PA,Pennsylvania,Diabetes,1110,84.99603964399064,10.6,%,Crude Prevalence,Diabetes among adults,2019,2019,13059432.0,9.4,12.0,Pennsylvania
+PA,Pennsylvania,Mental Health,868,66.46537154142692,14.9,%,Age-adjusted Prevalence,Frequent mental distress among adults,2021,2021,13059432.0,10.6,20.6,Pennsylvania
+RI,Rhode Island,Arthritis,28,25.12290033117366,34.5,%,Crude Prevalence,Severe joint pain among adults with arthritis,2019,2019,1114521.0,24.7,45.8,Rhode Island
+RI,Rhode Island,Asthma,66,59.21826506633791,12.4,%,Age-adjusted Prevalence,Current asthma among adults,2020,2020,1114521.0,10.7,14.2,Rhode Island
+RI,Rhode Island,Cancer,224,200.98320264938928,46.9,"per 100,000",Age-adjusted Rate,"Lung and bronchial cancer mortality among all people, underlying cause",2015,2019,1114521.0,44.4,49.5,Rhode Island
+RI,Rhode Island,Cardiovascular Disease,137,122.92276233467113,33.0,Number,Number,"Cerebrovascular disease (stroke) mortality among all people, underlying cause",2019,2019,1114521.0,,,Rhode Island
+RI,Rhode Island,Cognitive Health and Caregiving,55,49.34855422194826,9.5,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,1114521.0,8.2,10.9,Rhode Island
+RI,Rhode Island,Diabetes,123,110.36131216908429,60.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,1114521.0,,,Rhode Island
+RI,Rhode Island,Mental Health,122,109.46406572868524,23.4,%,Crude Prevalence,Depression among adults,2020,2020,1114521.0,20.4,26.7,Rhode Island
+SC,South Carolina,Arthritis,203,36.443449639999756,43.8,%,Crude Prevalence,Severe joint pain among adults with arthritis,2019,2019,5570274.0,39.6,48.0,South Carolina
+SC,South Carolina,Asthma,258,46.31729067546767,7.4,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,5570274.0,4.7,11.6,South Carolina
+SC,South Carolina,Cancer,1952,350.4315945678794,22.6,"per 100,000",Crude Rate,"Prostate cancer mortality among all males, underlying cause",2016,2020,5570274.0,21.8,23.5,South Carolina
+SC,South Carolina,Cardiovascular Disease,514,92.27553258600923,126.0,Number,Number,"Coronary heart disease mortality among all people, underlying cause",2020,2020,5570274.0,,,South Carolina
+SC,South Carolina,Cognitive Health and Caregiving,70,12.56670677241371,45.0,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,5570274.0,33.4,57.1,South Carolina
+SC,South Carolina,Diabetes,564,101.25175170916188,2682.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,5570274.0,,,South Carolina
+SC,South Carolina,Mental Health,280,50.26682708965484,21.0,%,Crude Prevalence,Current poor mental health among high school students,2021,2021,5570274.0,18.0,24.4,South Carolina
+SD,South Dakota,Arthritis,19,20.31881286801113,69.3,%,Age-adjusted Prevalence,Received health care provider counseling for physical activity among adults with arthritis,2019,2019,935094.0,62.9,75.1,South Dakota
+SD,South Dakota,Asthma,16,17.11057925727253,11.5,%,Age-adjusted Prevalence,Current asthma among adults,2019,2019,935094.0,9.3,14.1,South Dakota
+SD,South Dakota,Cancer,497,531.497368179028,20.2,"per 100,000",Crude Rate,"Prostate cancer mortality among all males, underlying cause",2015,2019,935094.0,18.4,22.2,South Dakota
+SD,South Dakota,Cardiovascular Disease,86,91.96936350783984,38.4,%,Crude Prevalence,Taking medicine for high cholesterol among adults,2021,2021,935094.0,34.2,42.8,South Dakota
+SD,South Dakota,Cognitive Health and Caregiving,8,8.555289628636265,9.3,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,935094.0,6.9,12.6,South Dakota
+SD,South Dakota,Diabetes,76,81.27525147204452,9.3,%,Age-adjusted Prevalence,Diabetes among adults,2019,2019,935094.0,8.1,10.8,South Dakota
+SD,South Dakota,Mental Health,26,27.804691293067865,14.9,%,Crude Prevalence,Frequent mental distress among adults,2022,2022,935094.0,11.7,18.8,South Dakota
+TN,Tennessee,Arthritis,195,26.657276014630607,33.6,%,Age-adjusted Prevalence,Severe joint pain among adults with arthritis,2019,2019,7315076.0,28.2,39.4,Tennessee
+TN,Tennessee,Asthma,118,16.131069588340573,92.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,7315076.0,,,Tennessee
+TN,Tennessee,Cancer,1615,220.7769269929663,16.3,"per 100,000",Crude Rate,"Colon and rectum (colorectal) cancer mortality among all people, underlying cause",2015,2019,7315076.0,15.7,17.0,Tennessee
+TN,Tennessee,Cardiovascular Disease,681,93.09541008186382,7356.0,Number,Number,"Hospitalization for heart failure as principal diagnosis, Medicare-beneficiaries aged 65 years and older",2021,2021,7315076.0,,,Tennessee
+TN,Tennessee,Cognitive Health and Caregiving,103,14.080509894907449,25.0,%,Crude Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,7315076.0,23.3,26.7,Tennessee
+TN,Tennessee,Diabetes,730,99.793905080412,17.9,%,Age-adjusted Prevalence,Diabetes among adults,2020,2020,7315076.0,14.2,22.4,Tennessee
+TN,Tennessee,Mental Health,322,44.018681419031054,18.5,%,Crude Prevalence,Depression among adults,2019,2019,7315076.0,16.5,20.6,Tennessee
+TX,Texas,Arthritis,827,26.080248135112463,20.5,%,Crude Prevalence,Arthritis among adults,2019,2019,31709821.0,16.9,24.6,Texas
+TX,Texas,Asthma,923,29.10770136482322,136.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,31709821.0,,,Texas
+TX,Texas,Cancer,3778,119.14289897757544,2.9,"per 100,000",Crude Rate,"Cervical cancer mortality among all females, underlying cause",2015,2019,31709821.0,2.8,3.0,Texas
+TX,Texas,Cardiovascular Disease,1968,62.062791209070525,34.0,"cases per 100,000",Crude Rate,"Coronary heart disease mortality among all people, underlying cause",2019,2019,31709821.0,31.0,37.0,Texas
+TX,Texas,Cognitive Health and Caregiving,332,10.46994241941637,45.1,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,31709821.0,36.6,54.0,Texas
+TX,Texas,Diabetes,3090,97.44615083131501,13.0,%,Crude Prevalence,Diabetes among adults,2019,2019,31709821.0,11.4,14.7,Texas
+TX,Texas,Mental Health,1398,44.087287657662905,2.8,Number,Crude Mean,Average mentally unhealthy days among adults,2019,2019,31709821.0,2.2,3.5,Texas
+UT,Utah,Arthritis,108,30.517923063185666,20.3,%,Crude Prevalence,Arthritis among adults,2019,2019,3538904.0,19.1,21.5,Utah
+UT,Utah,Asthma,122,34.47395012693195,10.7,%,Crude Prevalence,Current asthma among adults,2019,2019,3538904.0,9.6,12.0,Utah
+UT,Utah,Cancer,874,246.96911812244693,6.0,Number,Number,"Breast cancer mortality among all females, underlying cause",2016,2020,3538904.0,,,Utah
+UT,Utah,Cardiovascular Disease,335,94.6620761682148,52.5,%,Age-adjusted Prevalence,Taking medicine to control high blood pressure among adults with high blood pressure,2019,2019,3538904.0,48.4,56.4,Utah
+UT,Utah,Cognitive Health and Caregiving,41,11.585507829542706,15.7,%,Crude Prevalence,Provided care for a friend or family member in the past month among adults,2019,2020,3538904.0,14.0,17.5,Utah
+UT,Utah,Diabetes,406,114.72478484864241,7.2,%,Crude Prevalence,Diabetes among adults,2020,2020,3538904.0,6.4,8.1,Utah
+UT,Utah,Mental Health,215,60.75327276467517,4.7,Number,Age-adjusted Mean,Average mentally unhealthy days among adults,2019,2019,3538904.0,4.3,5.2,Utah
+VA,Virginia,Arthritis,181,20.38263728128501,23.5,%,Crude Prevalence,Physical inactivity among adults with arthritis,2021,2021,8880107.0,20.6,26.7,Virginia
+VA,Virginia,Asthma,183,20.607859792680426,58.0,Number,Number,"Asthma mortality among all people, underlying cause",2021,2021,8880107.0,,,Virginia
+VA,Virginia,Cancer,1679,189.07429831645047,20711.0,Number,Number,"Invasive cancer (all sites combined), incidence",2015,2019,8880107.0,,,Virginia
+VA,Virginia,Cardiovascular Disease,687,77.36393266432488,31.6,%,Crude Prevalence,High cholesterol among adults who have been screened,2019,2019,8880107.0,28.5,34.7,Virginia
+VA,Virginia,Cognitive Health and Caregiving,89,10.022401757095945,9.3,%,Crude Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,8880107.0,8.2,10.6,Virginia
+VA,Virginia,Diabetes,694,78.15221145420882,3914.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,8880107.0,,,Virginia
+VA,Virginia,Mental Health,302,34.00859922070759,15.4,%,Age-adjusted Prevalence,Frequent mental distress among adults,2019,2019,8880107.0,14.0,17.0,Virginia
+VT,Vermont,Arthritis,8,12.409584542621493,26.0,%,Age-adjusted Prevalence,Arthritis among adults,2021,2021,644663.0,24.3,27.8,Vermont
+VT,Vermont,Asthma,29,44.98474396700291,12.6,%,Crude Prevalence,Current asthma among adults,2019,2019,644663.0,10.8,14.5,Vermont
+VT,Vermont,Cancer,248,384.6971208212663,23.0,"per 100,000",Crude Rate,"Prostate cancer mortality among all males, underlying cause",2015,2019,644663.0,20.7,25.5,Vermont
+VT,Vermont,Cardiovascular Disease,69,107.03266668011038,66.9,"cases per 100,000",Age-adjusted Rate,"Coronary heart disease mortality among all people, underlying cause",2019,2019,644663.0,59.6,74.1,Vermont
+VT,Vermont,Cognitive Health and Caregiving,42,65.15031884876285,54.4,%,Age-adjusted Prevalence,Discussed symptoms of subjective cognitive decline with a health care professional among adults aged 45 years and older with subjective cognitive decline,2019,2020,644663.0,45.7,62.8,Vermont
+VT,Vermont,Diabetes,45,69.8039130522459,9.3,%,Crude Prevalence,Diabetes among adults,2021,2021,644663.0,8.0,10.8,Vermont
+VT,Vermont,Mental Health,54,83.76469566269509,13.1,%,Age-adjusted Prevalence,Frequent mental distress among adults,2019,2019,644663.0,11.1,15.5,Vermont
+WA,Washington,Arthritis,173,21.622243163996593,20.3,%,Crude Prevalence,Physical inactivity among adults with arthritis,2021,2021,8001020.0,17.9,22.9,Washington
+WA,Washington,Asthma,141,17.62275309897988,7.9,%,Crude Prevalence,Current asthma among adults,2019,2019,8001020.0,7.1,8.9,Washington
+WA,Washington,Cancer,3806,475.68934960792495,83.2,%,Age-adjusted Prevalence,Cervical cancer screening among women aged 21-65 years,2020,2020,8001020.0,81.1,85.1,Washington
+WA,Washington,Cardiovascular Disease,444,55.49292465210686,31.9,%,Crude Prevalence,High cholesterol among adults who have been screened,2019,2019,8001020.0,30.8,33.0,Washington
+WA,Washington,Cognitive Health and Caregiving,121,15.123071808344436,9.5,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,8001020.0,8.2,11.0,Washington
+WA,Washington,Diabetes,552,68.99120362153826,2.8,%,Crude Prevalence,Diabetes among adults,2019,2019,8001020.0,2.3,3.5,Washington
+WA,Washington,Mental Health,485,60.61727129790952,13.8,%,Crude Prevalence,Frequent mental distress among adults,2020,2020,8001020.0,11.4,16.5,Washington
+WI,Wisconsin,Arthritis,72,12.054673973808207,24.3,%,Crude Prevalence,Physical inactivity among adults with arthritis,2021,2021,5972787.0,20.4,28.7,Wisconsin
+WI,Wisconsin,Asthma,115,19.25399315261033,85.0,Number,Number,"Asthma mortality among all people, underlying cause",2020,2020,5972787.0,,,Wisconsin
+WI,Wisconsin,Cancer,4526,757.770200075777,444.6,"per 100,000",Age-adjusted Rate,"Invasive cancer (all sites combined), incidence",2015,2019,5972787.0,441.4,447.8,Wisconsin
+WI,Wisconsin,Cardiovascular Disease,535,89.57292466649155,1821.0,Number,Number,"Diseases of the heart mortality among all people, underlying cause",2019,2019,5972787.0,,,Wisconsin
+WI,Wisconsin,Cognitive Health and Caregiving,54,9.041005480356157,9.5,%,Age-adjusted Prevalence,Subjective cognitive decline among adults aged 45 years and older,2019,2020,5972787.0,7.6,11.7,Wisconsin
+WI,Wisconsin,Diabetes,232,38.84283836004867,2.4,"cases per 100,000",Crude Rate,"Diabetic ketoacidosis mortality among all people, underlying or contributing cause",2019,2019,5972787.0,1.7,3.3,Wisconsin
+WI,Wisconsin,Mental Health,215,35.99659589401062,26.5,%,Crude Prevalence,Depression among adults,2020,2020,5972787.0,24.1,29.1,Wisconsin
+WV,West Virginia,Arthritis,29,16.419924275838877,61.5,%,Crude Prevalence,Arthritis among adults,2019,2019,1766147.0,58.9,64.0,West Virginia
+WV,West Virginia,Asthma,26,14.721311419717612,13.5,%,Crude Prevalence,Current asthma among adults,2020,2020,1766147.0,12.3,14.7,West Virginia
+WV,West Virginia,Cancer,357,202.13492987843028,31.6,"per 100,000",Crude Rate,"Breast cancer mortality among all females, underlying cause",2015,2019,1766147.0,30.0,33.2,West Virginia
+WV,West Virginia,Cardiovascular Disease,101,57.18663282274918,2719.0,Number,Number,"Diseases of the heart mortality among all people, underlying cause",2019,2019,1766147.0,,,West Virginia
+WV,West Virginia,Cognitive Health and Caregiving,8,4.529634282990035,26.1,%,Crude Prevalence,Provided care for someone with dementia or other cognitive impairment in the past month among adults,2019,2020,1766147.0,23.0,29.4,West Virginia
+WV,West Virginia,Diabetes,59,33.406052837051504,1889.0,Number,Number,"Diabetes mortality among all people, underlying or contributing cause",2019,2019,1766147.0,,,West Virginia
+WV,West Virginia,Mental Health,41,23.214375700323924,25.3,%,Age-adjusted Prevalence,Frequent mental distress among adults,2021,2021,1766147.0,23.4,27.5,West Virginia
+WY,Wyoming,Arthritis,1,1.6985051456213387,62.4,%,Crude Prevalence,Received health care provider counseling for physical activity among adults with arthritis,2019,2019,588753.0,50.6,72.9,Wyoming
+WY,Wyoming,Cancer,253,429.7218018421987,66.0,Number,Number,"Breast cancer mortality among all females, underlying cause",2015,2019,588753.0,,,Wyoming
+WY,Wyoming,Cardiovascular Disease,4,6.794020582485355,35.1,%,Crude Prevalence,High blood pressure among adults,2019,2019,588753.0,32.4,37.9,Wyoming
+WY,Wyoming,Cognitive Health and Caregiving,1,1.6985051456213387,21.5,%,Crude Prevalence,Provided care for someone with dementia or other cognitive impairment in the past month among adults,2021,2022,588753.0,16.2,28.0,Wyoming
+WY,Wyoming,Diabetes,1,1.6985051456213387,6.6,%,Age-adjusted Prevalence,Diabetes among adults,2019,2019,588753.0,5.4,8.0,Wyoming
+WY,Wyoming,Mental Health,3,5.095515436864016,8.7,%,Crude Prevalence,Frequent mental distress among adults,2022,2022,588753.0,7.3,10.5,Wyoming

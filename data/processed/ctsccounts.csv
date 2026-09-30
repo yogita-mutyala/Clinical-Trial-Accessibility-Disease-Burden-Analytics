@@ -1,0 +1,356 @@
+state_abbr,disease_group,trial_count
+AK,Arthritis,1
+AK,Asthma,1
+AK,Cancer,547
+AK,Cardiovascular Disease,27
+AK,Diabetes,6
+AK,Mental Health,6
+AL,Arthritis,205
+AL,Asthma,171
+AL,Cancer,556
+AL,Cardiovascular Disease,450
+AL,Cognitive Health and Caregiving,68
+AL,Diabetes,546
+AL,Mental Health,302
+AR,Arthritis,69
+AR,Asthma,87
+AR,Cancer,478
+AR,Cardiovascular Disease,193
+AR,Cognitive Health and Caregiving,29
+AR,Diabetes,218
+AR,Mental Health,167
+AZ,Arthritis,341
+AZ,Asthma,190
+AZ,Cancer,1015
+AZ,Cardiovascular Disease,537
+AZ,Cognitive Health and Caregiving,238
+AZ,Diabetes,741
+AZ,Mental Health,351
+CA,Arthritis,1060
+CA,Asthma,1208
+CA,Cancer,9326
+CA,Cardiovascular Disease,2910
+CA,Cognitive Health and Caregiving,766
+CA,Diabetes,3720
+CA,Mental Health,2477
+CO,Arthritis,168
+CO,Asthma,297
+CO,Cancer,3642
+CO,Cardiovascular Disease,488
+CO,Cognitive Health and Caregiving,113
+CO,Diabetes,527
+CO,Mental Health,296
+CT,Arthritis,117
+CT,Asthma,69
+CT,Cancer,1121
+CT,Cardiovascular Disease,323
+CT,Cognitive Health and Caregiving,134
+CT,Diabetes,339
+CT,Mental Health,299
+DC,Arthritis,28
+DC,Asthma,21
+DC,Cancer,444
+DC,Cardiovascular Disease,214
+DC,Cognitive Health and Caregiving,47
+DC,Diabetes,94
+DC,Mental Health,124
+DE,Arthritis,17
+DE,Asthma,11
+DE,Cancer,706
+DE,Cardiovascular Disease,78
+DE,Cognitive Health and Caregiving,9
+DE,Diabetes,48
+DE,Mental Health,31
+FL,Arthritis,1191
+FL,Asthma,931
+FL,Cancer,3512
+FL,Cardiovascular Disease,2168
+FL,Cognitive Health and Caregiving,1136
+FL,Diabetes,3180
+FL,Mental Health,1837
+GA,Arthritis,238
+GA,Asthma,265
+GA,Cancer,1875
+GA,Cardiovascular Disease,762
+GA,Cognitive Health and Caregiving,176
+GA,Diabetes,981
+GA,Mental Health,547
+HI,Arthritis,12
+HI,Asthma,8
+HI,Cancer,1177
+HI,Cardiovascular Disease,76
+HI,Cognitive Health and Caregiving,13
+HI,Diabetes,99
+HI,Mental Health,30
+IA,Arthritis,46
+IA,Asthma,40
+IA,Cancer,2401
+IA,Cardiovascular Disease,264
+IA,Cognitive Health and Caregiving,20
+IA,Diabetes,209
+IA,Mental Health,87
+ID,Arthritis,84
+ID,Asthma,51
+ID,Cancer,1051
+ID,Cardiovascular Disease,77
+ID,Cognitive Health and Caregiving,12
+ID,Diabetes,206
+ID,Mental Health,54
+IL,Arthritis,282
+IL,Asthma,261
+IL,Cancer,7524
+IL,Cardiovascular Disease,1125
+IL,Cognitive Health and Caregiving,186
+IL,Diabetes,803
+IL,Mental Health,658
+IN,Arthritis,125
+IN,Asthma,131
+IN,Cancer,1776
+IN,Cardiovascular Disease,439
+IN,Cognitive Health and Caregiving,78
+IN,Diabetes,550
+IN,Mental Health,271
+KS,Arthritis,112
+KS,Asthma,81
+KS,Cancer,2752
+KS,Cardiovascular Disease,305
+KS,Cognitive Health and Caregiving,86
+KS,Diabetes,292
+KS,Mental Health,200
+KY,Arthritis,118
+KY,Asthma,132
+KY,Cancer,1196
+KY,Cardiovascular Disease,340
+KY,Cognitive Health and Caregiving,45
+KY,Diabetes,367
+KY,Mental Health,166
+LA,Arthritis,119
+LA,Asthma,114
+LA,Cancer,1130
+LA,Cardiovascular Disease,383
+LA,Cognitive Health and Caregiving,42
+LA,Diabetes,451
+LA,Mental Health,210
+MA,Arthritis,213
+MA,Asthma,221
+MA,Cancer,1868
+MA,Cardiovascular Disease,879
+MA,Cognitive Health and Caregiving,218
+MA,Diabetes,637
+MA,Mental Health,846
+MD,Arthritis,256
+MD,Asthma,225
+MD,Cancer,1660
+MD,Cardiovascular Disease,748
+MD,Cognitive Health and Caregiving,115
+MD,Diabetes,675
+MD,Mental Health,493
+ME,Arthritis,7
+ME,Asthma,24
+ME,Cancer,472
+ME,Cardiovascular Disease,125
+ME,Cognitive Health and Caregiving,14
+ME,Diabetes,67
+ME,Mental Health,32
+MI,Arthritis,226
+MI,Asthma,195
+MI,Cancer,7039
+MI,Cardiovascular Disease,1020
+MI,Cognitive Health and Caregiving,147
+MI,Diabetes,626
+MI,Mental Health,433
+MN,Arthritis,115
+MN,Asthma,143
+MN,Cancer,4327
+MN,Cardiovascular Disease,682
+MN,Cognitive Health and Caregiving,81
+MN,Diabetes,445
+MN,Mental Health,292
+MO,Arthritis,188
+MO,Asthma,232
+MO,Cancer,3688
+MO,Cardiovascular Disease,677
+MO,Cognitive Health and Caregiving,93
+MO,Diabetes,568
+MO,Mental Health,390
+MS,Arthritis,65
+MS,Asthma,18
+MS,Cancer,431
+MS,Cardiovascular Disease,143
+MS,Cognitive Health and Caregiving,22
+MS,Diabetes,133
+MS,Mental Health,76
+MT,Arthritis,15
+MT,Asthma,46
+MT,Cancer,1562
+MT,Cardiovascular Disease,92
+MT,Cognitive Health and Caregiving,9
+MT,Diabetes,106
+MT,Mental Health,27
+NC,Arthritis,419
+NC,Asthma,392
+NC,Cancer,2972
+NC,Cardiovascular Disease,1161
+NC,Cognitive Health and Caregiving,192
+NC,Diabetes,1289
+NC,Mental Health,652
+ND,Arthritis,22
+ND,Asthma,12
+ND,Cancer,681
+ND,Cardiovascular Disease,55
+ND,Cognitive Health and Caregiving,3
+ND,Diabetes,59
+ND,Mental Health,27
+NE,Arthritis,83
+NE,Asthma,118
+NE,Cancer,1312
+NE,Cardiovascular Disease,215
+NE,Cognitive Health and Caregiving,27
+NE,Diabetes,219
+NE,Mental Health,115
+NH,Arthritis,27
+NH,Asthma,14
+NH,Cancer,431
+NH,Cardiovascular Disease,77
+NH,Cognitive Health and Caregiving,11
+NH,Diabetes,66
+NH,Mental Health,67
+NJ,Arthritis,127
+NJ,Asthma,161
+NJ,Cancer,1811
+NJ,Cardiovascular Disease,617
+NJ,Cognitive Health and Caregiving,151
+NJ,Diabetes,444
+NJ,Mental Health,383
+NM,Arthritis,54
+NM,Asthma,24
+NM,Cancer,437
+NM,Cardiovascular Disease,98
+NM,Cognitive Health and Caregiving,15
+NM,Diabetes,117
+NM,Mental Health,78
+NV,Arthritis,63
+NV,Asthma,62
+NV,Cancer,2578
+NV,Cardiovascular Disease,135
+NV,Cognitive Health and Caregiving,38
+NV,Diabetes,325
+NV,Mental Health,134
+NY,Arthritis,400
+NY,Asthma,413
+NY,Cancer,4095
+NY,Cardiovascular Disease,1766
+NY,Cognitive Health and Caregiving,442
+NY,Diabetes,1349
+NY,Mental Health,1280
+OH,Arthritis,365
+OH,Asthma,370
+OH,Cancer,7773
+OH,Cardiovascular Disease,1540
+OH,Cognitive Health and Caregiving,229
+OH,Diabetes,1116
+OH,Mental Health,817
+OK,Arthritis,139
+OK,Asthma,155
+OK,Cancer,574
+OK,Cardiovascular Disease,276
+OK,Cognitive Health and Caregiving,57
+OK,Diabetes,288
+OK,Mental Health,220
+OR,Arthritis,75
+OR,Asthma,219
+OR,Cancer,1556
+OR,Cardiovascular Disease,335
+OR,Cognitive Health and Caregiving,109
+OR,Diabetes,283
+OR,Mental Health,249
+PA,Arthritis,472
+PA,Asthma,341
+PA,Cancer,4697
+PA,Cardiovascular Disease,1538
+PA,Cognitive Health and Caregiving,220
+PA,Diabetes,1110
+PA,Mental Health,868
+RI,Arthritis,28
+RI,Asthma,66
+RI,Cancer,224
+RI,Cardiovascular Disease,137
+RI,Cognitive Health and Caregiving,55
+RI,Diabetes,123
+RI,Mental Health,122
+SC,Arthritis,203
+SC,Asthma,258
+SC,Cancer,1952
+SC,Cardiovascular Disease,514
+SC,Cognitive Health and Caregiving,70
+SC,Diabetes,564
+SC,Mental Health,280
+SD,Arthritis,19
+SD,Asthma,16
+SD,Cancer,497
+SD,Cardiovascular Disease,86
+SD,Cognitive Health and Caregiving,8
+SD,Diabetes,76
+SD,Mental Health,26
+TN,Arthritis,195
+TN,Asthma,118
+TN,Cancer,1615
+TN,Cardiovascular Disease,681
+TN,Cognitive Health and Caregiving,103
+TN,Diabetes,730
+TN,Mental Health,322
+TX,Arthritis,827
+TX,Asthma,923
+TX,Cancer,3778
+TX,Cardiovascular Disease,1968
+TX,Cognitive Health and Caregiving,332
+TX,Diabetes,3090
+TX,Mental Health,1398
+UT,Arthritis,108
+UT,Asthma,122
+UT,Cancer,874
+UT,Cardiovascular Disease,335
+UT,Cognitive Health and Caregiving,41
+UT,Diabetes,406
+UT,Mental Health,215
+VA,Arthritis,181
+VA,Asthma,183
+VA,Cancer,1679
+VA,Cardiovascular Disease,687
+VA,Cognitive Health and Caregiving,89
+VA,Diabetes,694
+VA,Mental Health,302
+VT,Arthritis,8
+VT,Asthma,29
+VT,Cancer,248
+VT,Cardiovascular Disease,69
+VT,Cognitive Health and Caregiving,42
+VT,Diabetes,45
+VT,Mental Health,54
+WA,Arthritis,173
+WA,Asthma,141
+WA,Cancer,3806
+WA,Cardiovascular Disease,444
+WA,Cognitive Health and Caregiving,121
+WA,Diabetes,552
+WA,Mental Health,485
+WI,Arthritis,72
+WI,Asthma,115
+WI,Cancer,4526
+WI,Cardiovascular Disease,535
+WI,Cognitive Health and Caregiving,54
+WI,Diabetes,232
+WI,Mental Health,215
+WV,Arthritis,29
+WV,Asthma,26
+WV,Cancer,357
+WV,Cardiovascular Disease,101
+WV,Cognitive Health and Caregiving,8
+WV,Diabetes,59
+WV,Mental Health,41
+WY,Arthritis,1
+WY,Cancer,253
+WY,Cardiovascular Disease,4
+WY,Cognitive Health and Caregiving,1
+WY,Diabetes,1
+WY,Mental Health,3
